@@ -1,0 +1,23 @@
+#título {
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+legend {
+    color: blue;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+
+label {
+    color: brown;
+}
+
+p {
+    color: blanchedalmond;
+}
+
+.pclass {
+    color: blueviolet;
+}
